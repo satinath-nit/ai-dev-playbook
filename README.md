@@ -1,4 +1,4 @@
-# AI Dev Playbook
+# AI Dev Playbook - Overview
 
 A curated collection of **tested prompt patterns and workflows** for real coding tasks that work in ANY AI coding assistant - GitHub Copilot, Cursor, Windsurf, ChatGPT, Claude, and more.
 
